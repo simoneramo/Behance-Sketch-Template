@@ -6,6 +6,6 @@ A Sketch Behance Template for your projects.
 
 Including
 
-Behance Cover
-Max width 1400px
-Min width 726px
+- Behance Cover
+- Min width 726px
+- Max width 1400px
